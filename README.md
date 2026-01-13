@@ -1,4 +1,3 @@
-
 # MetaVoice: Biological Liveness and Forensic Inference
 
 "In a world of quantum-secured labs and digital assassins, the most dangerous weapon isn't a virus—it's a voice you think you can trust."
@@ -38,10 +37,6 @@ Cy uses this to visualize the signal by plotting samples against their own delay
 
 * **Organic Knot:** A chaotic, textured cloud of data points (Strange Attractor) representing human entropy.
 * **The Lattice:** AI models often reveal geometric patterns or "tracks" indicating the periodic, frame-by-frame calculation of the algorithm.
-
-### 3. Energy Flux Acceleration (Bio-Residual)
-
-Measures the "acceleration" of vocal energy to find the **"Humanity Gap."** This highlights the micro-jitter that occurs when a human throat changes phonemes—a biological friction that AI "smooths out" to sound more pleasant.
 
 ---
 
