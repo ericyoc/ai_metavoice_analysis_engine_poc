@@ -1,7 +1,3 @@
-This README is designed to bridge the gap between the **forensic reality** of the code and the **cyber-inference fiction** of the book. It positions the project as a tool for "MetaVoice Analysis"—the science of finding the biological residue in a world of perfect clones.
-
----
-
 # MetaVoice: Biological Liveness & Forensic Inference
 
 **"The math doesn't lie, but it does hide. Cy’s job was to find where the biology ended and the lattice began."**
